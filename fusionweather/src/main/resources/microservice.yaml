@@ -35,7 +35,7 @@ cse:
 #    accessKey: yourak
 #    secretKey: yoursk
 #    akskCustomCipher: default
-#    project: cn-north-1
+#    project: ap-southeast-1
 #addressResolver:    ## If failed with unable to resolve domain name in windows, you can resolve it by set addressResolver.
 #  servers: 8.8.8.8
 
